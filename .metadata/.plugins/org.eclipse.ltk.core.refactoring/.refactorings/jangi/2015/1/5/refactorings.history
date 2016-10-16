@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;javax.mail-1.5.1.jar&apos; to &apos;emailTest&apos;&#x0D;&#x0A;- Original project: &apos;jangi&apos;&#x0D;&#x0A;- Destination element: &apos;emailTest&apos;&#x0D;&#x0A;- Original element: &apos;jangi/lib/javax.mail-1.5.1.jar&apos;" description="Copy source folder" destination="=emailTest" element1="/lib\/javax.mail-1.5.1.jar" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1422182048273" version="1.0"/>
+</session>

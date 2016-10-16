@@ -1,0 +1,26 @@
+class A {
+	int a;
+	
+	public A() {
+	}
+	
+	public A(int a) {
+		this.a = a;
+	}
+}
+
+public class Test {
+	public static void main(String [] args) {
+		A a = new A(3);
+		
+		test(a);
+		
+		System.out.println(a.a);
+	}
+	
+	public static void test(A a) {
+		a = new A();
+		a.a = 7;
+	}
+	
+}
